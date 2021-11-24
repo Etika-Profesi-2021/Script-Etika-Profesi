@@ -2,4 +2,4 @@
 
 Naskah Drama etika profesi 
 Tentang : Kasus Perusahaan kontaktor
-Judul : Sirik Jadi Dendam
+Judul :
