@@ -1,13 +1,4 @@
-# Script-Etika-Profesi
+# Prolog
 
 
- 
-Manager =
-Pegawai 1 =
-Pegawai 2 =
-Customer =
-
-
-Disebuah perusahaan swasta yang berlokasi di Jakarta yaitu CV Mahari Creation, perusahaan ini merupakan perusahaan jasa kontraktor perencana dan pelaksana proyek yang terpercaya. Meski perusahaan ini belum lama berdiri, namun perusahaan ini juga telah menggarap banyak proyek.
-
-Aksa 
+Satu bulan sejak cafe milik Diska sudah beroperasi namun bangunan cafe miliknya sudah banyak kekurangan. Saluran air yang tersumbat, dinding yang retak, bahkan paling parahnya plafon di lantai 2 sudah mulai bocor. Hal tersebut membuat Diska bertanya-tanya mengenai kualitas konstruksi yang dibangun oleh Perusahaan Kontraktor milik Sherin.
